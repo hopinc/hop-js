@@ -44,7 +44,7 @@
 		"package": "yarn build && yarn pack"
 	},
 	"devDependencies": {
-		"@changesets/cli": "2.26.1",
+		"@changesets/cli": "2.27.12",
 		"@types/glob": "8.1.0",
 		"@types/node": "18.15.5",
 		"dotenv": "16.0.3",
